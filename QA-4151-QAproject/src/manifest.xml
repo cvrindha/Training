@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>QA-4151-QAproject</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
